@@ -9,7 +9,7 @@ clone the repository and run npm i to install all the dependancies
 ## Usage
 Using mysql source the schema.sql file and the seeds.sql file.  Then run npm start to begin
 
-![](./image.png)
+![](./image1.png)
 
 ## Contact
 [Github](https://github.com/XXLZopes)
